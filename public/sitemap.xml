@@ -2,51 +2,318 @@
 <?xml-stylesheet type="text/xsl" href="https://www.erenncodes.site/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Core Pages -->
   <url>
     <loc>https://www.erenncodes.site/</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://www.erenncodes.site/logo.png</image:loc>
-      <image:title>ErenCodes Logo</image:title>
-      <image:caption>ErenCodes - Stunning Website Templates for Life's Best Moments</image:caption>
+      <image:title>Eren Codes Logo</image:title>
+      <image:caption>Eren - Bespoke Celebration Websites for Birthdays, Proposals &amp; Anniversaries</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://www.erenncodes.site/products</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.erenncodes.site/about</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.erenncodes.site/contact</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.erenncodes.site/privacy-policy</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.erenncodes.site/terms-of-service</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://www.erenncodes.site/refund-policy</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
+  </url>
+
+  <!-- Product & Celebration Templates (21 Templates) -->
+  <url>
+    <loc>https://www.erenncodes.site/products/8a6b9dc7-ff59-4406-b5b1-3ded79d52b31</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-holi-thumbnail.png</image:loc>
+      <image:title>Happy Holi Celebration Website Template</image:title>
+      <image:caption>Custom Happy Holi website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/6d0b12d0-5ca9-4749-8573-f4383669c465</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-birthday-2-thumbnail.png</image:loc>
+      <image:title>Happy Birthday 2.0 Celebration Website Template</image:title>
+      <image:caption>Custom Happy Birthday 2.0 website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/b92a5598-f215-4005-9e22-02aa254ac241</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/ramadan-kareem-thumbnail.png</image:loc>
+      <image:title>Ramadan Kareem Celebration Website Template</image:title>
+      <image:caption>Custom Ramadan Kareem website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/848d6890-5e80-4e5b-9faf-8cc62c51e3e3</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/ramadan-mubarak-thumbnail.png</image:loc>
+      <image:title>Ramadan Mubarak Celebration Website Template</image:title>
+      <image:caption>Custom Ramadan Mubarak website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/d8958652-9c99-45e8-bbf1-3f83efc23c42</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-valentines-2-thumbnail.png</image:loc>
+      <image:title>Happy Valentines Day 2.O Celebration Website Template</image:title>
+      <image:caption>Custom Happy Valentines Day 2.O website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/bbc830a9-097b-4547-b1d0-1d5de398c37d</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-birthday-handsome-thumbnail.png</image:loc>
+      <image:title>Happy Birthday Handsome Celebration Website Template</image:title>
+      <image:caption>Custom Happy Birthday Handsome website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/780be078-0b68-45ec-a9cb-11ca2ef39ace</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-valentines-thumbnail.png</image:loc>
+      <image:title>Happy Valentines Celebration Website Template</image:title>
+      <image:caption>Custom Happy Valentines website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/c11f5a1c-548c-4cde-98f3-ec24081182b3</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/why-i-love-him-thumbnail.png</image:loc>
+      <image:title>Why I Love Him Male Version Celebration Website Template</image:title>
+      <image:caption>Custom Why I Love Him Male Version website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/015fff46-7275-40bd-9fad-c4c1b1b90e80</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/sorry-website-thumbnail.png</image:loc>
+      <image:title>Sorry Website Celebration Website Template</image:title>
+      <image:caption>Custom Sorry Website website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/389586b5-3ba4-4673-945b-f6ab1f5fa642</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-anniversary-thumbnail.png</image:loc>
+      <image:title>Happy Anniversary Celebration Website Template</image:title>
+      <image:caption>Custom Happy Anniversary website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/8635e456-c448-45a0-a7bb-6bb822b285ba</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/love-proposal-thumbnail.png</image:loc>
+      <image:title>Love Proposal Website Celebration Website Template</image:title>
+      <image:caption>Custom Love Proposal Website website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/080d012f-38c0-4d7b-ab36-a62c3260a93f</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/birthday-thumbnail.png</image:loc>
+      <image:title>Happy Birthday Surprise Celebration Website Template</image:title>
+      <image:caption>Custom Happy Birthday Surprise website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/4bade3a6-6a39-4641-8843-765b18cfcd5c</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/why-i-love-you-thumbnail.png</image:loc>
+      <image:title>Why I Love You Celebration Website Template</image:title>
+      <image:caption>Custom Why I Love You website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/256f35ec-ecd1-47e1-9851-2e7b01dc3673</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/ramadan-mubarak-thumbnail.png</image:loc>
+      <image:title>Eid Mubarak My Love Celebration Website Template</image:title>
+      <image:caption>Custom Eid Mubarak My Love website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/5a8cd8a1-0792-4cad-bc5a-c3886be53e3a</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-womens-day-thumbnail.png</image:loc>
+      <image:title>Happy Womens Day Celebration Website Template</image:title>
+      <image:caption>Custom Happy Womens Day website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00014-beef-4000-8000-000000000014</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/importance-website-for-her-thumbnail.png</image:loc>
+      <image:title>Importance Website for her Celebration Website Template</image:title>
+      <image:caption>Custom Importance Website for her website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00006-beef-4000-8000-000000000006</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/supportive-website-for-her-thumbnail.png</image:loc>
+      <image:title>Supportive Website For Her Celebration Website Template</image:title>
+      <image:caption>Custom Supportive Website For Her website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00009-beef-4000-8000-000000000009</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-girlfriend-day-thumbnail.png</image:loc>
+      <image:title>Happy Girlfriend Day Celebration Website Template</image:title>
+      <image:caption>Custom Happy Girlfriend Day website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00015-beef-4000-8000-000000000015</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-boyfriend-day-thumbnail.png</image:loc>
+      <image:title>Happy Boyfriend Day Celebration Website Template</image:title>
+      <image:caption>Custom Happy Boyfriend Day website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00016-beef-4000-8000-000000000016</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-anniversary-2-thumbnail.png</image:loc>
+      <image:title>Happy Anniversary 2.0 Celebration Website Template</image:title>
+      <image:caption>Custom Happy Anniversary 2.0 website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00007-beef-4000-8000-000000000007</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/sorry-2-thumbnail.png</image:loc>
+      <image:title>Sorry 2.0 Celebration Website Template</image:title>
+      <image:caption>Custom Sorry 2.0 website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00012-beef-4000-8000-000000000012</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/love-proposal-2-thumbnail.png</image:loc>
+      <image:title>Love Proposal 2.0 Celebration Website Template</image:title>
+      <image:caption>Custom Love Proposal 2.0 website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00004-beef-4000-8000-000000000004</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-birthday-bestie-thumbnail.png</image:loc>
+      <image:title>Happy Birthday Bestie Celebration Website Template</image:title>
+      <image:caption>Custom Happy Birthday Bestie website by Eren</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.erenncodes.site/products/e1a00017-beef-4000-8000-000000000017</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.erenncodes.site/images/happy-birthday-my-love-thumbnail.png</image:loc>
+      <image:title>Happy Birthday My Love Celebration Website Template</image:title>
+      <image:caption>Custom Happy Birthday My Love website by Eren</image:caption>
+    </image:image>
   </url>
 </urlset>
