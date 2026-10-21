@@ -1,0 +1,1 @@
+UPDATE products SET image_url = 'https://vcwjealhdnjuykfbntin.supabase.co/storage/v1/object/public/product-images/eid-mubarak-thumbnail.png' WHERE title = 'Eid Mubarak My Love';
